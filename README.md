@@ -1,6 +1,6 @@
 <div align="center">
 
-# LLMatic
+# LLMatic Test
 
 <img alt="LLMatic Logo" width="300px" height="300px" src="/media/logo.png">
 
